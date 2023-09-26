@@ -1,0 +1,10 @@
+F:\Facultad\programacion-y-estructuras\Listas\Ejercicio1\Actividad5\Actividad5\obj\Debug\Actividad5.csproj.AssemblyReference.cache
+F:\Facultad\programacion-y-estructuras\Listas\Ejercicio1\Actividad5\Actividad5\obj\Debug\Actividad5.Form1.resources
+F:\Facultad\programacion-y-estructuras\Listas\Ejercicio1\Actividad5\Actividad5\obj\Debug\Actividad5.Properties.Resources.resources
+F:\Facultad\programacion-y-estructuras\Listas\Ejercicio1\Actividad5\Actividad5\obj\Debug\Actividad5.csproj.GenerateResource.cache
+F:\Facultad\programacion-y-estructuras\Listas\Ejercicio1\Actividad5\Actividad5\obj\Debug\Actividad5.csproj.CoreCompileInputs.cache
+F:\Facultad\programacion-y-estructuras\Listas\Ejercicio1\Actividad5\Actividad5\bin\Debug\Actividad5.exe.config
+F:\Facultad\programacion-y-estructuras\Listas\Ejercicio1\Actividad5\Actividad5\bin\Debug\Actividad5.exe
+F:\Facultad\programacion-y-estructuras\Listas\Ejercicio1\Actividad5\Actividad5\bin\Debug\Actividad5.pdb
+F:\Facultad\programacion-y-estructuras\Listas\Ejercicio1\Actividad5\Actividad5\obj\Debug\Actividad5.exe
+F:\Facultad\programacion-y-estructuras\Listas\Ejercicio1\Actividad5\Actividad5\obj\Debug\Actividad5.pdb

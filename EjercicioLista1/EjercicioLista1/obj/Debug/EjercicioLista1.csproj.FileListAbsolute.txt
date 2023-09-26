@@ -1,0 +1,10 @@
+F:\Facultad\programacion-y-estructuras\Listas\Ejercicio1\EjercicioLista1\EjercicioLista1\bin\Debug\EjercicioLista1.exe.config
+F:\Facultad\programacion-y-estructuras\Listas\Ejercicio1\EjercicioLista1\EjercicioLista1\bin\Debug\EjercicioLista1.exe
+F:\Facultad\programacion-y-estructuras\Listas\Ejercicio1\EjercicioLista1\EjercicioLista1\bin\Debug\EjercicioLista1.pdb
+F:\Facultad\programacion-y-estructuras\Listas\Ejercicio1\EjercicioLista1\EjercicioLista1\obj\Debug\EjercicioLista1.csproj.AssemblyReference.cache
+F:\Facultad\programacion-y-estructuras\Listas\Ejercicio1\EjercicioLista1\EjercicioLista1\obj\Debug\EjercicioLista1.Form1.resources
+F:\Facultad\programacion-y-estructuras\Listas\Ejercicio1\EjercicioLista1\EjercicioLista1\obj\Debug\EjercicioLista1.Properties.Resources.resources
+F:\Facultad\programacion-y-estructuras\Listas\Ejercicio1\EjercicioLista1\EjercicioLista1\obj\Debug\EjercicioLista1.csproj.GenerateResource.cache
+F:\Facultad\programacion-y-estructuras\Listas\Ejercicio1\EjercicioLista1\EjercicioLista1\obj\Debug\EjercicioLista1.csproj.CoreCompileInputs.cache
+F:\Facultad\programacion-y-estructuras\Listas\Ejercicio1\EjercicioLista1\EjercicioLista1\obj\Debug\EjercicioLista1.exe
+F:\Facultad\programacion-y-estructuras\Listas\Ejercicio1\EjercicioLista1\EjercicioLista1\obj\Debug\EjercicioLista1.pdb
